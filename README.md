@@ -1,4 +1,4 @@
-Documentation of the Project 
+#Documentation of the Project 
 Project 7 : Minor MLOps project - 2 Using GitLab CI-CD
 In this project we will learn GitLab CI-CD, we will deploy on Google Kubernetes cluster.
 Folder Name & Path : MLOps-Beginner to Advanced MLOps on GCP-CICD_ Kubernetes Jenkins/7_Project
@@ -216,3 +216,4 @@ Now go to Gcp Kubernetes Engine console , we can see the cluster status as succe
 With this we have succesfully deployed our application in Google Kubernetes Engine through GitLab CI-CD. 
 
 9.Done
+
